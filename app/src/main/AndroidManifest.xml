@@ -22,6 +22,7 @@
         </activity>
         <service android:name="ru.prud.servicestest.MyService" />
         <service android:name="ru.prud.servicestest.MyForegroundService" />
+        <service android:name="ru.prud.servicestest.MyIntentService" />
     </application>
 
 </manifest>
